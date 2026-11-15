@@ -1,0 +1,24 @@
+# Large datasets
+data/*
+!data/README.md
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.pt
+
+# System files
+.DS_Store
+Thumbs.db
