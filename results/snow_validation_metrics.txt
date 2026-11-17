@@ -1,0 +1,6 @@
+XGBoost Baseline Validation Results
+-----------------------------------
+Best iteration: 299
+RMSE: 277.05853271484375
+MAE: 167.1816864013672
+R2: 0.6410880982875824
